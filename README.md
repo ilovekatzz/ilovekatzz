@@ -1,7 +1,15 @@
-- 👋 Hi, I’m @ilovekatzz
-- 👀 I’m interested in roblox and coding bots
-- 🌱 I’m currently learning i dont code alot i just fork stuff LOL my other github got termed but the gamepass thingy is a thing I coded
-- 💞️ I’m looking to collaborate on if you want to work together on discord we can develop bots.
-- 📫 How to reach me discord at stormofcats#1111
+Roblox & Discord Dev
 
-my parents got divorced and they argue alot so i may not be able to post  much 👌
+Destroying kids dreams since 2020
+
+Destroying roblox stoks since 1707
+
+Destroying discord servers since 1503
+
+Destroying tiktok and yt since 1000
+
+Destroying nazis since 1907
+
+Destroying myself since 0001
+
+⭐

